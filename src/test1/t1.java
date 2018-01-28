@@ -9,6 +9,12 @@ public class t1 {
 		System.out.println("class t3");
 		System.out.println("class t4");
 		System.out.println("class t5");
+		System.out.println("class t6");
+		
+	}
+	void display(String s)
+	{
+		System.out.println(s);
 	}
 
 }
