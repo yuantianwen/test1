@@ -18,6 +18,12 @@ public class t1 {
 		System.out.println(s);
 	}
 	
+	void show1(String s)
+	{
+		System.out.println(s);
+	}
+	
+	
 	void display(String s)
 	{
 		System.out.println(s);
