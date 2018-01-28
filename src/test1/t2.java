@@ -12,6 +12,9 @@ public class t2 {
 	{
 		System.out.println(s);
 	}
-	
+	void show3(String s)
+	{
+		System.out.println(s);
+	}
 	
 }

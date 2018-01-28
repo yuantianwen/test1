@@ -27,6 +27,10 @@ public class t1 {
 	{
 		System.out.println(s);
 	}
+	void show3(String s)
+	{
+		System.out.println(s);
+	}
 	
 	void display(String s)
 	{
