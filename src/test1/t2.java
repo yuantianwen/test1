@@ -28,4 +28,8 @@ public class t2 {
 	{
 		System.out.println(s);
 	}
+	void show7(String s)
+	{
+		System.out.println(s);
+	}
 }
