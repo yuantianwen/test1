@@ -8,4 +8,10 @@ public class t2 {
 		System.out.println(s);
 	}
 	
+	void show2(String s)
+	{
+		System.out.println(s);
+	}
+	
+	
 }

@@ -23,6 +23,10 @@ public class t1 {
 		System.out.println(s);
 	}
 	
+	void show2(String s)
+	{
+		System.out.println(s);
+	}
 	
 	void display(String s)
 	{
