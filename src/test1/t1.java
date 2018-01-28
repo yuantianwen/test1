@@ -8,6 +8,7 @@ public class t1 {
 		System.out.println("class t2");
 		System.out.println("class t3");
 		System.out.println("class t4");
+		System.out.println("class t5");
 	}
 
 }
