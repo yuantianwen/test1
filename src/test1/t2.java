@@ -20,5 +20,9 @@ public class t2 {
 	{
 		System.out.println(s);
 	}
+	void show5(String s)
+	{
+		System.out.println(s);
+	}
 	
 }
