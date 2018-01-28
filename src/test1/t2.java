@@ -32,4 +32,8 @@ public class t2 {
 	{
 		System.out.println(s);
 	}
+	void show8(String s)
+	{
+		System.out.println(s);
+	}
 }
