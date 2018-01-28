@@ -24,5 +24,8 @@ public class t2 {
 	{
 		System.out.println(s);
 	}
-	
+	void show6(String s)
+	{
+		System.out.println(s);
+	}
 }
